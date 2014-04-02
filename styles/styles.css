@@ -1,0 +1,36 @@
+/**
+* ========================================================
+*  style.css -- Global styles for the MyRWD website 
+* ========================================================
+* 
+* Created April 2, 2014
+*
+* Authored by Briana Weaver
+*
+*/
+/* ----- Basic Styling ----- */
+body {
+  background-color: lightblue;
+}
+
+#page-wrapper{
+  background-color: white;
+  width: 768px;
+  margin: 0 auto;
+}
+
+#content {
+  background-color: #f7f2da;
+  padding: 0 1em;
+  margin-bottom: 10px;
+}
+
+nav {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  padding: 3px 10px;
+}
